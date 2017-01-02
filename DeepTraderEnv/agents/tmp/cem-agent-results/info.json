@@ -1,0 +1,1 @@
+{"env_id": "DeepTraderEnv-v0", "params": {"n_iter": 10000, "elite_frac": 0.2, "batch_size": 1}, "argv": ["cem_agent.py", "DeepTraderEnv-v0"]}
